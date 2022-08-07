@@ -6,7 +6,7 @@ React tutorial: Making a game tic-tac-toe
 
 If you have extra time or want to practice your new React skills, here are some ideas for improvements that you could make to the tic-tac-toe game which are listed in order of increasing difficulty:
 
-- [] Display the location for each move in the format (col, row) in the move history list.
+- [ ] Display the location for each move in the format (col, row) in the move history list.
 
 - [ ] Bold the currently selected item in the move list.
 
