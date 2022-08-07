@@ -50,6 +50,8 @@ class Board extends React.Component {
 
       const winner = calculateWinner(this.state.squares);
       let status;
+
+      // if winner is null the if statement handles it as false
       if (winner) {
         status = 'Winner: ' + winner;
       } else {
